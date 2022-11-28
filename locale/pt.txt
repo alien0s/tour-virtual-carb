@@ -1,0 +1,276 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_CA081918_80C9_2AD8_41D0_FFC4502029B0.source = https://riobranco.educacaoadventista.org.br/
+LinkBehaviour_CA0B023F_80C9_1ED7_41CD_F06653F402AF.source = https://riobranco.educacaoadventista.org.br/
+LinkBehaviour_B4FE0DB9_A63B_9AB0_41C1_678BC3C95D11.source = https://riobranco.educacaoadventista.org.br/
+LinkBehaviour_B46F7AB1_A638_BEB1_41E0_7768A74512F5.source = https://riobranco.educacaoadventista.org.br/
+LinkBehaviour_C93B997F_80C9_6D57_41D7_B015B3F05730.source = https://www.google.com/maps/place/CARB+-+Col%C3%A9gio+Adventista+de+Rio+Branco/@-9.9609876,-67.8397226,15z/data=!4m5!3m4!1s0x0:0x67f423c64280ef91!8m2!3d-9.9609876!4d-67.8397226
+LinkBehaviour_CB37E309_80CF_3EBB_41CB_25154845A350.source = https://www.google.com/maps/place/CARB+-+Col%C3%A9gio+Adventista+de+Rio+Branco/@-9.9609876,-67.8397226,15z/data=!4m5!3m4!1s0x0:0x67f423c64280ef91!8m2!3d-9.9609876!4d-67.8397226
+LinkBehaviour_99E89A2F_9674_30C8_41DE_59308AC6E678.source = https://www.neoproducoes.com/
+LinkBehaviour_CA541508_80CF_1AB8_41C5_72F0CE0340F2.source = https://www.neoproducoes.com/
+LinkBehaviour_C819DB5F_80CF_6D58_41E0_2666D3BCDA86.source = https://www.neoproducoes.com/
+LinkBehaviour_8434A1B3_9694_F3D9_4170_A3F783340930.source = https://www.neoproducoes.com/
+
+## Media
+
+### Title
+panorama_D84327B6_CA63_8483_4151_A91117193CD8.label = PANO0001 Panorama27
+panorama_DD4A69D5_CFF4_3BC5_41E6_56884984B405.label = PANO0001 Panorama29
+panorama_DBCAD0BD_CA63_7C81_41E7_BEBF5EFAD404.label = PANO0001 Panorama30
+panorama_DFE02467_CAE3_5166_41E3_710ECE5E3B5F.label = PANO0001 Panorama32 Drone
+panorama_DBE30E90_CA60_8480_41D7_AD2648D51454.label = PANO0001 Panorama34
+panorama_C6DECB40_C9E7_8D80_41CA_127873141408.label = _MG_1614-HDR Panorama
+panorama_C6E6A341_C9E7_9D81_41D7_EBFEF5251A6F.label = _MG_1626 Recepcao
+panorama_C6D84304_C9E0_BD80_41C4_54E3CC80AB9E.label = _MG_1653-HDR Panorama
+panorama_C6A96AA6_C9E7_8C83_41D7_6EDF6F9AAE0B.label = _MG_1665-HDR Panorama
+panorama_C6DAE274_C9E1_9F80_41D7_638A45539828.label = _MG_1680 Piscina
+panorama_C6BDE292_C9E0_9C83_41E8_CD62B85A1705.label = _MG_1692-HDR Panorama
+panorama_C6BCFAE3_C9E1_8C81_41D0_C4A7BCE399C5.label = _MG_1704-HDR Panorama
+panorama_C69DFA8F_C9E0_8C81_41E4_27A7AFF20EFC.label = _MG_1716-HDR Panorama
+panorama_D7D84432_DA38_925A_41D8_500295919045.label = _MG_1728 Quadra
+panorama_C6D5B3BE_C9E3_BC80_41E1_4314DAC72B84.label = _MG_1748 Patio
+panorama_C6E66B27_C9E0_8D81_41DF_486B51E5C183.label = _MG_1768-HDR Panorama
+panorama_C6C0FBCC_C9E0_8C87_41E5_79D91CFD5F17.label = _MG_1788 Playground
+panorama_C6ADED04_C9E1_8587_41D2_C29EBDF3DF93.label = _MG_1823-HDR Panorama
+panorama_C6D92C59_C9E1_8B81_41C0_78B3F468BA90.label = _MG_1835 Sala 3nova
+panorama_C6CB975B_C9E0_8581_41E4_A751F5A6D7EB.label = _MG_1850
+panorama_C6DF1E3C_C9E0_8787_41E4_EE88DECE39ED.label = _MG_1862-HDR Panorama
+panorama_C537DFDE_CA1F_8480_41DE_3887F06A6522.label = _MG_1874-HDR sala 2 nova
+panorama_C51CC816_CA1F_8B83_41E1_107798DDDE01.label = _MG_1886-HDR Panorama
+panorama_C5389C89_CA20_8481_41B0_1A2AD8C6D701.label = _MG_1898-HDR Panorama
+panorama_C52FC555_CA20_8581_41D2_2201B644048B.label = _MG_1910-HDR Panorama
+panorama_C51C846C_CA21_7B87_41DB_FC0392DDD18E.label = _MG_1922 Auditorio
+panorama_C5276B56_CA21_8D80_41E4_59CA63B0E61A.label = _MG_1940-HDR Panorama
+panorama_C52F35FE_CA21_8480_41DB_B441D517326F.label = _MG_1958-HDR Panorama
+panorama_C51B8775_CA21_8581_41E4_3C95B1F84D7A.label = _MG_1970-Biblioteca
+panorama_C5581AF4_CA20_8C80_41D0_57027DE8DAD0.label = _MG_1982
+panorama_87049E78_9695_388F_41E0_AABEB61575BB.label = _MG_1994-HDR Panorama
+panorama_C588F350_CA20_FD9F_41B3_1EE63DA5FE63.label = _MG_2006-HDR Panorama
+panorama_C5340F50_CA20_8580_41E3_011775AB104D.label = _MG_2018 Laboratorio
+panorama_C528A46C_CA21_9B80_41E3_662D9F11C0A7.label = _MG_2030-HDR Panorama
+panorama_C53F8707_CA21_8580_41D6_B7430A3C0B29.label = _MG_2042 Sala 1 nova
+panorama_C5490BA5_CA20_8C80_41E2_5F6E6DBFBCC0.label = _MG_2054-HDR Panorama
+panorama_C551E798_CA20_8480_41E2_0576930AB50C.label = _MG_2066-HDR Panorama
+panorama_C53FC834_CA27_8B80_41D6_F35E220D2511.label = _MG_2078-HDR Panorama
+panorama_C531A194_CA27_FC80_41E3_A5DDE058CE3F.label = _MG_2093-HDR Panorama
+panorama_C527E259_CA27_BF80_41E3_1F0C2B7E4A02.label = _MG_2105
+panorama_C52DD111_CA20_9D80_41DC_F2DB89BB52E8.label = _MG_2117 professorres
+panorama_DBD6C50A_CF94_684C_41CB_5AEA5E60BB9D.label = _MG_2129 Fachada
+panorama_C6CBDE9B_C9E1_8481_41BF_65DCF42A1482.label = _MG_2141-HDR Panorama
+panorama_DCC19CAF_CF94_1844_41E8_F7C0940BC539.label = _MG_2153-HDR Panorama
+video_B59499D2_AD8F_F2A2_41D9_B3654CCA16A3.label = logo grande
+
+### Video
+videolevel_F43EC1A6_F9BB_7814_41E4_994B7541D561.posterURL = media/video_B59499D2_AD8F_F2A2_41D9_B3654CCA16A3_poster_pt.jpg
+videolevel_F43EC1A6_F9BB_7814_41E4_994B7541D561.url = media/video_B59499D2_AD8F_F2A2_41D9_B3654CCA16A3_pt.mp4
+
+## Skin
+
+### Button
+Button_4E32D04D_7CBB_3F53_41C5_826D04049F08_mobile.label = Auditório
+Button_4E32D04D_7CBB_3F53_41C5_826D04049F08_mobile.pressedLabel = Auditório
+Button_4F86095C_7CBF_0171_41BA_26EF06CCF6AC.label = Auditório
+Button_4F86095C_7CBF_0171_41BA_26EF06CCF6AC.pressedLabel = Auditório
+Button_2A2C553C_310E_0014_41C4_86393D0ADCC7.label = Bar
+Button_4331F5BF_7B4E_8EA7_41BB_8C805AD5E953.label = Bar
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4.label = Biblioteca
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4.pressedLabel = Biblioteca
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4_mobile.label = Biblioteca
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4_mobile.pressedLabel = Biblioteca
+Button_668C26BC_7C7B_0331_41DD_F5457BE35790_mobile.label = Cantina
+Button_433645BF_7B4E_8EA7_41D6_E7601D4FC256.label = Cantina
+Button_668C26BC_7C7B_0331_41DD_F5457BE35790_mobile.pressedLabel = Cantina
+Button_433645BF_7B4E_8EA7_41D6_E7601D4FC256.pressedLabel = Cantina
+Button_4331F5BF_7B4E_8EA7_41D1_5EE78EFBB6EF.label = Chill Out
+Button_15EF2665_3106_0035_41AE_9BACA1A48D02.label = Chill Out
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF.label = Convivência >
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF.pressedLabel = Convivência >
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF_mobile.label = Convivência >
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF_mobile.pressedLabel = Convivência >
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = Fachada
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = Fachada
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.pressedLabel = Fachada
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.pressedLabel = Fachada
+Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9.label = Garden
+Button_433115CE_7B4E_8EE6_41B5_F99321FF6267.label = Garden
+Button_668DA6BC_7C7B_0331_41C6_FE7A98E52E5A_mobile.pressedLabel = LUXO CASAL
+Button_17592215_31FA_0014_41B2_AA3B5CC318B8_mobile.pressedLabel = LUXO CASAL
+Button_17592215_31FA_0014_41B2_AA3B5CC318B8_mobile.label = LUXO CASAL
+Button_668DA6BC_7C7B_0331_41C6_FE7A98E52E5A_mobile.label = LUXO CASAL
+Button_606FB8D5_79C5_86FA_41AA_A394444B2AE2.label = Laboratório
+Button_149BC6E4_5462_0CE6_41CE_85E777F81B6A_mobile.pressedLabel = Laboratório
+Button_149BC6E4_5462_0CE6_41CE_85E777F81B6A_mobile.label = Laboratório
+Button_606FB8D5_79C5_86FA_41AA_A394444B2AE2.pressedLabel = Laboratório
+Button_668D26CB_7C7B_0357_41B2_3713A9935B8F_mobile.label = Lorem Ipsum
+Button_17590215_31FA_0014_41C1_2B2D012DCC76_mobile.label = Lorem Ipsum
+Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA.label = Lorem Ipsum
+Button_1758B215_31FA_0014_41BC_C4EAC2A9544B_mobile.label = Lorem Ipsum
+Button_668D36CB_7C7B_0357_41C9_DEEFB27282D2_mobile.label = Lorem Ipsum
+Button_17597215_31FA_0014_41C0_9BEE1DE4D7F6_mobile.label = Lorem Ipsum
+Button_433145CE_7B4E_8EE6_41D0_C77B280307B2.label = Lorem Ipsum
+Button_668DF6CB_7C7B_0357_41DA_DDF06CEA3EEC_mobile.label = Lorem Ipsum
+Button_668DF6BC_7C7B_0331_41BA_B4383F6B3368_mobile.label = Lorem Ipsum
+Button_17596215_31FA_0014_41C6_A42670770708_mobile.label = Lorem Ipsum
+Button_4336D5BF_7B4E_8EA7_41CF_BB5E6E6B72EC.pressedLabel = Mini Cidade
+Button_4336D5BF_7B4E_8EA7_41CF_BB5E6E6B72EC.label = Mini Cidade
+Button_668CC6BC_7C7B_0331_414E_781559178E00_mobile.label = Mini Cidade
+Button_668CC6BC_7C7B_0331_414E_781559178E00_mobile.pressedLabel = Mini Cidade
+Button_1759A215_31FA_0014_41C7_F6B1044E5BB3_mobile.pressedLabel = Multifuncional
+Button_1759A215_31FA_0014_41C7_F6B1044E5BB3_mobile.label = Multifuncional
+Button_2A2C753B_310E_001C_41C4_B649CCC20E3D.label = Multifuncional
+Button_2A2C753B_310E_001C_41C4_B649CCC20E3D.pressedLabel = Multifuncional
+Button_6A1DC728_4FCF_BAE1_41CC_1766518326CF_mobile.label = Piscina
+Button_6A1DC728_4FCF_BAE1_41CC_1766518326CF_mobile.pressedLabel = Piscina
+Button_427D4199_7B45_876A_41D3_86658BCC739C.pressedLabel = Piscina
+Button_427D4199_7B45_876A_41D3_86658BCC739C.label = Piscina
+Button_668C56BC_7C7B_0331_4120_D00028615BA0_mobile.label = Playground
+Button_4331B5BF_7B4E_8EA7_41D3_6AEB111B7566.label = Playground
+Button_4331B5BF_7B4E_8EA7_41D3_6AEB111B7566.pressedLabel = Playground
+Button_668C56BC_7C7B_0331_4120_D00028615BA0_mobile.pressedLabel = Playground
+Button_433435BF_7B4E_8EA7_41D9_53513A2FBFB8.label = Pátio
+Button_433435BF_7B4E_8EA7_41D9_53513A2FBFB8.pressedLabel = Pátio
+Button_668306BC_7C7B_0331_41C3_D82C1F5D8AF4_mobile.pressedLabel = Pátio
+Button_668306BC_7C7B_0331_41C3_D82C1F5D8AF4_mobile.label = Pátio
+Button_46A3B1C2_7B4B_86D9_41BB_846E5F029404.label = Quadra
+Button_416F6E76_7B4B_9DB9_419D_26BB3CAE4D9A.label = Quadra
+Button_46A3B1C2_7B4B_86D9_41BB_846E5F029404.pressedLabel = Quadra
+Button_66D79D66_7C47_0150_41D5_0EB242710471_mobile.pressedLabel = Quadra
+Button_6723C0C3_7C47_1F50_41A1_3084484BF6C7_mobile.pressedLabel = Quadra
+Button_6723C0C3_7C47_1F50_41A1_3084484BF6C7_mobile.label = Quadra
+Button_66D79D66_7C47_0150_41D5_0EB242710471_mobile.label = Quadra
+Button_416F6E76_7B4B_9DB9_419D_26BB3CAE4D9A.pressedLabel = Quadra
+Button_921F3440_8039_1AA8_41BA_4DCD5B1A0DD4.label = Recepção
+Button_C7EECBED_80FF_2D7B_41CC_B1287E81ABA6.label = Recepção
+Button_921F3440_8039_1AA8_41BA_4DCD5B1A0DD4.pressedLabel = Recepção
+Button_C7EECBED_80FF_2D7B_41CC_B1287E81ABA6.pressedLabel = Recepção
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E.pressedLabel = Sala 1
+Button_17593215_31FA_0014_41C0_42BAFB0080F0_mobile.pressedLabel = Sala 1
+Button_17593215_31FA_0014_41C0_42BAFB0080F0_mobile.label = Sala 1
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E.label = Sala 1
+Button_1759F215_31FA_0014_41BD_BBFA5FB0D882_mobile.pressedLabel = Sala 2
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D.pressedLabel = Sala 2
+Button_1759F215_31FA_0014_41BD_BBFA5FB0D882_mobile.label = Sala 2
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D.label = Sala 2
+Button_1759D215_31FA_0014_41AD_B6C5744A0B97_mobile.pressedLabel = Sala 3
+Button_1759D215_31FA_0014_41AD_B6C5744A0B97_mobile.label = Sala 3
+Button_2A2C053B_310E_001C_41A2_583DE489828C.label = Sala 3
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.pressedLabel = Sala dos Profs.
+Button_6313A6A0_79CA_8D5A_41D5_AC3F8F9B9C40.label = Sala dos Profs.
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.label = Sala dos Profs.
+Button_6313A6A0_79CA_8D5A_41D5_AC3F8F9B9C40.pressedLabel = Sala dos Profs.
+Button_63821D24_7C4B_06D1_41D4_9CB34730BFF5_mobile.label = Salas de Aula >
+Button_63821D24_7C4B_06D1_41D4_9CB34730BFF5_mobile.pressedLabel = Salas de Aula >
+Button_437F1FB1_7B4A_9ABA_41CF_6F9003CEB655.label = Salas de Aula >
+Button_437F1FB1_7B4A_9ABA_41CF_6F9003CEB655.pressedLabel = Salas de Aula >
+Button_15F5A318_3106_001C_41C5_9AA2EF2184CF.label = Terrace
+Button_433115CE_7B4E_8EE6_41CD_ADAD523699C6.label = Terrace
+Button_6681E6AC_7C7B_03D1_41D0_79F304A45FAB_mobile.pressedLabel = VOLTAR
+Button_6681E6AC_7C7B_03D1_41D0_79F304A45FAB_mobile.label = VOLTAR
+Button_2A2DA53B_310E_001C_41C7_8885E712C50B.label = VOLTAR
+Button_4335D5AF_7B4E_8EA6_41B4_4E53F80E4462.label = VOLTAR
+Button_175A5214_31FA_0014_4198_930DF49BADD9_mobile.label = VOLTAR
+Button_175A5214_31FA_0014_4198_930DF49BADD9_mobile.pressedLabel = VOLTAR
+Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB.label = Vista Aérea
+Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB.pressedLabel = Vista Aérea
+Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB_mobile.label = Vista Aérea
+Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB_mobile.pressedLabel = Vista Aérea
+
+### Image
+Image_0A68459A_57E2_3ADD_41AE_72C247C5EFBB_mobile.url = skin/Image_0A68459A_57E2_3ADD_41AE_72C247C5EFBB_mobile_pt.png
+Image_0A68459A_57E2_3ADD_41AE_72C247C5EFBB.url = skin/Image_0A68459A_57E2_3ADD_41AE_72C247C5EFBB_pt.png
+Image_0AEF9634_57E2_39D5_41D5_11514E11A5C4_mobile.url = skin/Image_0AEF9634_57E2_39D5_41D5_11514E11A5C4_mobile_pt.png
+Image_0AEF9634_57E2_39D5_41D5_11514E11A5C4.url = skin/Image_0AEF9634_57E2_39D5_41D5_11514E11A5C4_pt.png
+Image_365A2F5B_57EE_0652_41D1_A59C8E3DD211_mobile.url = skin/Image_365A2F5B_57EE_0652_41D1_A59C8E3DD211_mobile_pt.png
+Image_365A2F5B_57EE_0652_41D1_A59C8E3DD211.url = skin/Image_365A2F5B_57EE_0652_41D1_A59C8E3DD211_pt.png
+Image_45DEC179_4ABF_802F_41CF_F1DF20105062.url = skin/Image_45DEC179_4ABF_802F_41CF_F1DF20105062_pt.png
+Image_502976CD_4AAC_8064_41AE_19D03F007BE9.url = skin/Image_502976CD_4AAC_8064_41AE_19D03F007BE9_pt.png
+Image_59EA8236_7C4B_0331_41B9_1DCCDFD2FDEB_mobile.url = skin/Image_59EA8236_7C4B_0331_41B9_1DCCDFD2FDEB_mobile_pt.png
+Image_59EA8236_7C4B_0331_41B9_1DCCDFD2FDEB.url = skin/Image_59EA8236_7C4B_0331_41B9_1DCCDFD2FDEB_pt.png
+Image_61A1D50D_5422_0D26_41C5_F6A2A0AE0E14_mobile.url = skin/Image_61A1D50D_5422_0D26_41C5_F6A2A0AE0E14_mobile_pt.png
+Image_61A1D50D_5422_0D26_41C5_F6A2A0AE0E14.url = skin/Image_61A1D50D_5422_0D26_41C5_F6A2A0AE0E14_pt.png
+Image_67DD5FF9_5426_1CE1_41CD_9BA66A41DADB_mobile.url = skin/Image_67DD5FF9_5426_1CE1_41CD_9BA66A41DADB_mobile_pt.png
+Image_67DD5FF9_5426_1CE1_41CD_9BA66A41DADB.url = skin/Image_67DD5FF9_5426_1CE1_41CD_9BA66A41DADB_pt.png
+Image_723F77BB_7C4B_0137_41C7_F8BECD9A8C6E_mobile.url = skin/Image_723F77BB_7C4B_0137_41C7_F8BECD9A8C6E_mobile_pt.png
+Image_723F77BB_7C4B_0137_41C7_F8BECD9A8C6E.url = skin/Image_723F77BB_7C4B_0137_41C7_F8BECD9A8C6E_pt.png
+Image_728B6D60_7C4F_0150_41DB_C3029033741D_mobile.url = skin/Image_728B6D60_7C4F_0150_41DB_C3029033741D_mobile_pt.png
+Image_728B6D60_7C4F_0150_41DB_C3029033741D.url = skin/Image_728B6D60_7C4F_0150_41DB_C3029033741D_pt.png
+Image_72DC3943_7C5D_0157_41D5_EF429FA408D0_mobile.url = skin/Image_72DC3943_7C5D_0157_41D5_EF429FA408D0_mobile_pt.png
+Image_72DC3943_7C5D_0157_41D5_EF429FA408D0.url = skin/Image_72DC3943_7C5D_0157_41D5_EF429FA408D0_pt.png
+Image_7333D0D6_7C5D_1F71_41D0_19646296FFFD_mobile.url = skin/Image_7333D0D6_7C5D_1F71_41D0_19646296FFFD_mobile_pt.png
+Image_7333D0D6_7C5D_1F71_41D0_19646296FFFD.url = skin/Image_7333D0D6_7C5D_1F71_41D0_19646296FFFD_pt.png
+Image_735EB224_7C45_02D0_41D2_2128864CC69E_mobile.url = skin/Image_735EB224_7C45_02D0_41D2_2128864CC69E_mobile_pt.png
+Image_735EB224_7C45_02D0_41D2_2128864CC69E.url = skin/Image_735EB224_7C45_02D0_41D2_2128864CC69E_pt.png
+Image_737C56C7_7C4B_035F_41BC_22102E32800E_mobile.url = skin/Image_737C56C7_7C4B_035F_41BC_22102E32800E_mobile_pt.png
+Image_737C56C7_7C4B_035F_41BC_22102E32800E.url = skin/Image_737C56C7_7C4B_035F_41BC_22102E32800E_pt.png
+Image_8C156DCC_95D8_4067_41C6_2534AC1E6449_mobile.url = skin/Image_8C156DCC_95D8_4067_41C6_2534AC1E6449_mobile_pt.png
+Image_8C156DCC_95D8_4067_41C6_2534AC1E6449.url = skin/Image_8C156DCC_95D8_4067_41C6_2534AC1E6449_pt.png
+Image_8C7876D9_95D9_C061_41E2_2BD50CD23938_mobile.url = skin/Image_8C7876D9_95D9_C061_41E2_2BD50CD23938_mobile_pt.png
+Image_8C7876D9_95D9_C061_41E2_2BD50CD23938.url = skin/Image_8C7876D9_95D9_C061_41E2_2BD50CD23938_pt.png
+Image_8C82A876_95D8_4023_41DA_98B1E9895970_mobile.url = skin/Image_8C82A876_95D8_4023_41DA_98B1E9895970_mobile_pt.png
+Image_8C82A876_95D8_4023_41DA_98B1E9895970.url = skin/Image_8C82A876_95D8_4023_41DA_98B1E9895970_pt.png
+Image_8F152A88_8005_8D89_41C4_120B98A8B04D.url = skin/Image_8F152A88_8005_8D89_41C4_120B98A8B04D_pt.png
+Image_8F966CAD_8005_858B_41D3_3EEE6DE5A6DA.url = skin/Image_8F966CAD_8005_858B_41D3_3EEE6DE5A6DA_pt.png
+Image_8FC8060C_8005_8489_41DC_452147ACC563.url = skin/Image_8FC8060C_8005_8489_41DC_452147ACC563_pt.png
+Image_A5851D66_91D3_23A3_41CC_CC53ED47F6F2_mobile.url = skin/Image_A5851D66_91D3_23A3_41CC_CC53ED47F6F2_mobile_pt.png
+Image_A5851D66_91D3_23A3_41CC_CC53ED47F6F2.url = skin/Image_A5851D66_91D3_23A3_41CC_CC53ED47F6F2_pt.png
+Image_B5BB3832_9239_E18A_41DB_0F055BF61AD3.url = skin/Image_B5BB3832_9239_E18A_41DB_0F055BF61AD3_pt.png
+Image_C821A45F_80C7_1B58_41D8_5D3D22C29D90.url = skin/Image_C821A45F_80C7_1B58_41D8_5D3D22C29D90_pt.png
+Image_C8702F30_80C9_66E8_41DD_E909D4D76864.url = skin/Image_C8702F30_80C9_66E8_41DD_E909D4D76864_pt.png
+Image_C9DB63F0_80C7_1D68_4163_1EC2A3594CA4.url = skin/Image_C9DB63F0_80C7_1D68_4163_1EC2A3594CA4_pt.png
+Image_D32285C4_80C8_E5A9_41D7_5AF4C3469947.url = skin/Image_D32285C4_80C8_E5A9_41D7_5AF4C3469947_pt.png
+
+### Label
+Label_71941F79_7C4B_0133_41D5_5BC232DB521A_mobile.text = AUDITÓRIO
+Label_71941F79_7C4B_0133_41D5_5BC232DB521A.text = AUDITÓRIO
+Label_8C4A8873_95D8_4021_41B0_F8F677F16048.text = BIBLIOTECA
+Label_8C4A8873_95D8_4021_41B0_F8F677F16048_mobile.text = BIBLIOTECA
+Label_8CFDE4FD_95D8_4021_41DF_AA3830C53892_mobile.text = FACHADA
+Label_8CFDE4FD_95D8_4021_41DF_AA3830C53892.text = FACHADA
+Label_729A6923_7C47_0ED7_41D6_CA2654595F12.text = HORTA
+Label_729A6923_7C47_0ED7_41D6_CA2654595F12_mobile.text = HORTA
+Label_72F778DE_7C4D_0F71_41DA_F85D3D2C7CF7_mobile.text = LABORATÓRIO
+Label_72F778DE_7C4D_0F71_41DA_F85D3D2C7CF7.text = LABORATÓRIO
+Label_734F2384_7C45_01D1_41DE_146979C18D2A.text = MINI CIDADE
+Label_734F2384_7C45_01D1_41DE_146979C18D2A_mobile.text = MINI CIDADE
+Label_8C541480_95D8_C0DF_41D3_F57173196414.text = PISCINA
+Label_8C541480_95D8_C0DF_41D3_F57173196414_mobile.text = PISCINA
+Label_0B29A1C6_57E2_1AB5_41A3_0B066C394DDA.text = PLAYGROUND
+Label_0B29A1C6_57E2_1AB5_41A3_0B066C394DDA_mobile.text = PLAYGROUND
+Label_0B29B123_57E2_1BF2_41D2_D05994E8BE45.text = PÁTIO
+Label_0B29B123_57E2_1BF2_41D2_D05994E8BE45_mobile.text = PÁTIO
+Label_36C303BE_57EE_1ED5_41D2_A8F1E957F9CD_mobile.text = QUADRA
+Label_36C303BE_57EE_1ED5_41D2_A8F1E957F9CD.text = QUADRA
+Label_8FB4B9CB_95D8_4062_41C9_FF4C46DDD0C5.text = RECEPÇÃO
+Label_8FB4B9CB_95D8_4062_41C9_FF4C46DDD0C5_mobile.text = RECEPÇÃO
+Label_72E7439B_7C4F_01F7_41A8_AEE7B21CF54D_mobile.text = SALA DOS PROFESSORES
+Label_72E7439B_7C4F_01F7_41A8_AEE7B21CF54D.text = SALA DOS PROFESSORES
+Label_8C4A2C6D_95D9_C021_41CA_723537B71812_mobile.text = SALAS DE AULA
+Label_8C4A2C6D_95D9_C021_41CA_723537B71812.text = SALAS DE AULA
+Label_5909B6CC_7C4B_0350_41B5_7CE4D2CDC93A.text = VISTA AÉREA
+Label_5909B6CC_7C4B_0350_41B5_7CE4D2CDC93A_mobile.text = VISTA AÉREA
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+### Tooltip
+Image_61A1D50D_5422_0D26_41C5_F6A2A0AE0E14.toolTip = Afastar
+Image_61A1D50D_5422_0D26_41C5_F6A2A0AE0E14_mobile.toolTip = Afastar
+Image_67DD5FF9_5426_1CE1_41CD_9BA66A41DADB.toolTip = Aproximar
+Image_67DD5FF9_5426_1CE1_41CD_9BA66A41DADB_mobile.toolTip = Aproximar
+Image_C8702F30_80C9_66E8_41DD_E909D4D76864.toolTip = Localização
+Image_8F966CAD_8005_858B_41D3_3EEE6DE5A6DA.toolTip = Localização
+Image_8F152A88_8005_8D89_41C4_120B98A8B04D.toolTip = NEO Produções
+Image_C9DB63F0_80C7_1D68_4163_1EC2A3594CA4.toolTip = Neo Produções
+Image_8FC8060C_8005_8489_41DC_452147ACC563.toolTip = Site
+Image_C821A45F_80C7_1B58_41D8_5D3D22C29D90.toolTip = Site
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Colégio Adventista de Rio Branco
